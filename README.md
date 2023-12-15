@@ -16,8 +16,8 @@ Other dependencies provided in Python Standard Library:
 - json>=2.0.9
 - random
 - logging
-These do not require pip install commands. 
 
+**These do not require pip install commands.**
 
 ## Getting Started Tutorial
 1. Set working directory to /source folder
@@ -28,7 +28,7 @@ These do not require pip install commands.
 4. You will automatically be prompted and redirected through the game, enjoy!
 5. When the game is finished (a win statement is presented) exit the program from the terminal typically by pressing CTRL+C
 
-To run command-line interface version only:
+**To run command-line interface version only:**
 1. Set working directory to /source folder
 2. Run mp_game_engine.py python file
     - if using some python IDE like VSCode, click run python file
@@ -80,7 +80,7 @@ Additional feaatures implemented:
     - documentation using sphinx to pull docstrings and type hinting information from all modules
     - distribution files built using setup.py file providing source and build distribution files
 
-Self-Review:
+**Self-Review:**
 
 During the course of this project, I was able to make effective use of my resources, both digital and in-person, to develop the logic and test the functionality of the program. Unfortunately, lack of time management lead me to miss out on large portion of recording the testing/ unit testing, instead I devoted time to robust error-handling to balance this.
 
@@ -103,4 +103,3 @@ Sphinx documentation setup and html files can be found in /docs folder as descri
 - Author - Tamanna Kar
 - License - MIT License
 - Link to source - https://github.com/TKar9901/UoE-Project---Battleships (private repo)
-- Acknowledgements - University of Exeter resources and staff.
