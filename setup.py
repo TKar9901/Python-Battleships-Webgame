@@ -11,5 +11,13 @@ setuptools.setup(
     description="Battleships game using Flask API for web interface",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=,
+    url="https://github.com/TKar9901/UoE-Project---Battleships",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating Sytem :: OS Independent",
+    ],
+    python_requires=">=3.6",
+)
     

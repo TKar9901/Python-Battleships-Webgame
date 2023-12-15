@@ -1,13 +1,14 @@
 try:
-- sphinx
-- pipreqs
-- testing
+- finish readme
+- run setup.py
+- try sphinx
 
 ## Introduction
 brief summary of the purpose of the project
 
 ## Prerequisites
 any dependencies not in the installation
+Flask>=3.0.0
 
 ## Installation
 any module dependencies
