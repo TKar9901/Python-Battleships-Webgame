@@ -1,5 +1,5 @@
 # Battleships Project
-Coursework 
+Uni Y1 Solo Python Coursework
 
 ## Introduction
 This project is my rendition of the popular battleships game using Flask API and provided templates to deliver the game via web interface. In particular, someone can play against an "AI" opponent to win the game by sinking all the enemy ships, as the player you are able to provide custom ship placements whereas the "AI" makes random ship placements before the game begins. You are automatically redirected through the game so this project is intended to be accessible for all users, no knowledge of web server, command line or otherwise technical knowledge is necessary to run and enjoy the game. 
